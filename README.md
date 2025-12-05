@@ -194,6 +194,3 @@ Any recent versions that satisfy these minimum requirements should be sufficient
 ## License
 
 The code can be distributed and modified under the terms of the MIT License (see the `LICENSE` file for details).
-
-```
-```
